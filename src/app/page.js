@@ -8,6 +8,7 @@ export default async function Home() {
   return (
     <div>
       <UploadProvider MEGABYTES={MEGABYTES} MINUTES={MINUTES}/>
+      
     </div>
   )
 }
