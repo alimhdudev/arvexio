@@ -1,0 +1,47 @@
+@keyframes gradientAnimation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  
+  .gradientBackground {
+    width: 50%;
+    height: 100%;
+    background: linear-gradient(120deg, #000000 0%, #141414 40%, #404040 75%);
+    background-size: 150% 150%;
+    /* animation: gradientAnimation 10s ease infinite; */
+    position: relative;
+  }
+  
+  @media (min-width: 640px) {
+    .gradientBackground {
+      width: 0%;
+    }
+  }
+  
+  @media (min-width: 1280px) {
+    .gradientBackground {
+      width: 55%;
+    }
+  }
+  
+
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  .fadeIn {
+    animation: fadeIn 15s forwards;
+  }
+    

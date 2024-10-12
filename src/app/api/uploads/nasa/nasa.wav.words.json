@@ -1,0 +1,678 @@
+{
+  "text": " So in school, I studied electrical engineering and physics because I absolutely love both getting my hands dirty, tinkering, but also the theoretical side of it. So space science instrumentation was like my dream job. So that means making the scientific gadgets that ride on Earth orbiting satellites, planetary probes, and where I love to do my work was at the intersection of where the science is.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.14,
+      "end": 4.12,
+      "text": " So in school, I studied electrical engineering and physics because I absolutely love",
+      "tokens": [
+        50364,
+        407,
+        294,
+        1395,
+        11,
+        286,
+        9454,
+        12147,
+        7043,
+        293,
+        10649,
+        570,
+        286,
+        3122,
+        959,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25461635589599607,
+      "compression_ratio": 1.6153846153846154,
+      "no_speech_prob": 0.004782625008374453,
+      "confidence": 0.781,
+      "words": [
+        {
+          "text": "So",
+          "start": 0.14,
+          "end": 0.44,
+          "confidence": 0.813
+        },
+        {
+          "text": "in",
+          "start": 0.44,
+          "end": 0.72,
+          "confidence": 0.811
+        },
+        {
+          "text": "school,",
+          "start": 0.72,
+          "end": 0.98,
+          "confidence": 0.99
+        },
+        {
+          "text": "I",
+          "start": 1.14,
+          "end": 1.2,
+          "confidence": 0.986
+        },
+        {
+          "text": "studied",
+          "start": 1.2,
+          "end": 1.56,
+          "confidence": 0.846
+        },
+        {
+          "text": "electrical",
+          "start": 1.56,
+          "end": 2.04,
+          "confidence": 0.548
+        },
+        {
+          "text": "engineering",
+          "start": 2.04,
+          "end": 2.52,
+          "confidence": 0.998
+        },
+        {
+          "text": "and",
+          "start": 2.52,
+          "end": 2.76,
+          "confidence": 0.509
+        },
+        {
+          "text": "physics",
+          "start": 2.76,
+          "end": 3.0,
+          "confidence": 0.995
+        },
+        {
+          "text": "because",
+          "start": 3.0,
+          "end": 3.26,
+          "confidence": 0.395
+        },
+        {
+          "text": "I",
+          "start": 3.26,
+          "end": 3.48,
+          "confidence": 0.976
+        },
+        {
+          "text": "absolutely",
+          "start": 3.48,
+          "end": 3.72,
+          "confidence": 0.95
+        },
+        {
+          "text": "love",
+          "start": 3.72,
+          "end": 4.12,
+          "confidence": 0.729
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.14,
+      "end": 8.65,
+      "text": " both getting my hands dirty, tinkering, but also the theoretical side of it. So space science",
+      "tokens": [
+        50564,
+        1293,
+        1242,
+        452,
+        2377,
+        9360,
+        11,
+        256,
+        475,
+        1794,
+        11,
+        457,
+        611,
+        264,
+        20864,
+        1252,
+        295,
+        309,
+        13,
+        407,
+        1901,
+        3497,
+        50796
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25461635589599607,
+      "compression_ratio": 1.6153846153846154,
+      "no_speech_prob": 0.004782625008374453,
+      "confidence": 0.853,
+      "words": [
+        {
+          "text": "both",
+          "start": 4.14,
+          "end": 4.44,
+          "confidence": 0.597
+        },
+        {
+          "text": "getting",
+          "start": 4.44,
+          "end": 4.58,
+          "confidence": 0.775
+        },
+        {
+          "text": "my",
+          "start": 4.58,
+          "end": 4.78,
+          "confidence": 0.987
+        },
+        {
+          "text": "hands",
+          "start": 4.78,
+          "end": 5.02,
+          "confidence": 0.938
+        },
+        {
+          "text": "dirty,",
+          "start": 5.02,
+          "end": 5.28,
+          "confidence": 0.999
+        },
+        {
+          "text": "tinkering,",
+          "start": 5.32,
+          "end": 5.86,
+          "confidence": 0.755
+        },
+        {
+          "text": "but",
+          "start": 6.04,
+          "end": 6.08,
+          "confidence": 0.981
+        },
+        {
+          "text": "also",
+          "start": 6.08,
+          "end": 6.36,
+          "confidence": 0.993
+        },
+        {
+          "text": "the",
+          "start": 6.36,
+          "end": 6.56,
+          "confidence": 0.974
+        },
+        {
+          "text": "theoretical",
+          "start": 6.56,
+          "end": 6.98,
+          "confidence": 0.987
+        },
+        {
+          "text": "side",
+          "start": 6.98,
+          "end": 7.34,
+          "confidence": 0.993
+        },
+        {
+          "text": "of",
+          "start": 7.34,
+          "end": 7.5,
+          "confidence": 0.99
+        },
+        {
+          "text": "it.",
+          "start": 7.5,
+          "end": 7.64,
+          "confidence": 0.994
+        },
+        {
+          "text": "So",
+          "start": 7.84,
+          "end": 7.98,
+          "confidence": 0.517
+        },
+        {
+          "text": "space",
+          "start": 7.98,
+          "end": 8.38,
+          "confidence": 0.77
+        },
+        {
+          "text": "science",
+          "start": 8.38,
+          "end": 8.65,
+          "confidence": 0.849
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8.65,
+      "end": 14.37,
+      "text": " instrumentation was like my dream job. So that means making the scientific gadgets that",
+      "tokens": [
+        50796,
+        7198,
+        399,
+        390,
+        411,
+        452,
+        3055,
+        1691,
+        13,
+        407,
+        300,
+        1355,
+        1455,
+        264,
+        8134,
+        37635,
+        300,
+        51072
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25461635589599607,
+      "compression_ratio": 1.6153846153846154,
+      "no_speech_prob": 0.004782625008374453,
+      "confidence": 0.972,
+      "words": [
+        {
+          "text": "instrumentation",
+          "start": 8.65,
+          "end": 9.44,
+          "confidence": 0.99
+        },
+        {
+          "text": "was",
+          "start": 9.44,
+          "end": 9.72,
+          "confidence": 0.997
+        },
+        {
+          "text": "like",
+          "start": 9.72,
+          "end": 10.12,
+          "confidence": 0.978
+        },
+        {
+          "text": "my",
+          "start": 10.12,
+          "end": 10.52,
+          "confidence": 0.938
+        },
+        {
+          "text": "dream",
+          "start": 10.52,
+          "end": 10.84,
+          "confidence": 0.976
+        },
+        {
+          "text": "job.",
+          "start": 10.84,
+          "end": 11.16,
+          "confidence": 0.992
+        },
+        {
+          "text": "So",
+          "start": 11.3,
+          "end": 11.48,
+          "confidence": 0.959
+        },
+        {
+          "text": "that",
+          "start": 11.48,
+          "end": 11.68,
+          "confidence": 0.987
+        },
+        {
+          "text": "means",
+          "start": 11.68,
+          "end": 12.16,
+          "confidence": 0.995
+        },
+        {
+          "text": "making",
+          "start": 12.16,
+          "end": 12.82,
+          "confidence": 0.954
+        },
+        {
+          "text": "the",
+          "start": 12.82,
+          "end": 13.1,
+          "confidence": 0.967
+        },
+        {
+          "text": "scientific",
+          "start": 13.1,
+          "end": 13.58,
+          "confidence": 0.997
+        },
+        {
+          "text": "gadgets",
+          "start": 13.58,
+          "end": 14.08,
+          "confidence": 0.992
+        },
+        {
+          "text": "that",
+          "start": 14.08,
+          "end": 14.37,
+          "confidence": 0.878
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 14.37,
+      "end": 19.3,
+      "text": " ride on Earth orbiting satellites, planetary probes, and where I love to do my work was at the",
+      "tokens": [
+        51072,
+        5077,
+        322,
+        4755,
+        48985,
+        24960,
+        11,
+        35788,
+        1239,
+        279,
+        11,
+        293,
+        689,
+        286,
+        959,
+        281,
+        360,
+        452,
+        589,
+        390,
+        412,
+        264,
+        51328
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25461635589599607,
+      "compression_ratio": 1.6153846153846154,
+      "no_speech_prob": 0.004782625008374453,
+      "confidence": 0.854,
+      "words": [
+        {
+          "text": "ride",
+          "start": 14.37,
+          "end": 14.64,
+          "confidence": 0.936
+        },
+        {
+          "text": "on",
+          "start": 14.64,
+          "end": 14.88,
+          "confidence": 0.994
+        },
+        {
+          "text": "Earth",
+          "start": 14.88,
+          "end": 15.1,
+          "confidence": 0.532
+        },
+        {
+          "text": "orbiting",
+          "start": 15.1,
+          "end": 15.44,
+          "confidence": 0.364
+        },
+        {
+          "text": "satellites,",
+          "start": 15.44,
+          "end": 16.04,
+          "confidence": 0.724
+        },
+        {
+          "text": "planetary",
+          "start": 16.16,
+          "end": 16.64,
+          "confidence": 0.96
+        },
+        {
+          "text": "probes,",
+          "start": 16.64,
+          "end": 17.24,
+          "confidence": 0.985
+        },
+        {
+          "text": "and",
+          "start": 17.38,
+          "end": 17.44,
+          "confidence": 0.986
+        },
+        {
+          "text": "where",
+          "start": 17.44,
+          "end": 17.56,
+          "confidence": 0.994
+        },
+        {
+          "text": "I",
+          "start": 17.56,
+          "end": 17.76,
+          "confidence": 0.992
+        },
+        {
+          "text": "love",
+          "start": 17.76,
+          "end": 18.08,
+          "confidence": 0.83
+        },
+        {
+          "text": "to",
+          "start": 18.08,
+          "end": 18.26,
+          "confidence": 0.997
+        },
+        {
+          "text": "do",
+          "start": 18.26,
+          "end": 18.4,
+          "confidence": 0.995
+        },
+        {
+          "text": "my",
+          "start": 18.4,
+          "end": 18.6,
+          "confidence": 0.994
+        },
+        {
+          "text": "work",
+          "start": 18.6,
+          "end": 18.82,
+          "confidence": 0.993
+        },
+        {
+          "text": "was",
+          "start": 18.82,
+          "end": 19.1,
+          "confidence": 0.816
+        },
+        {
+          "text": "at",
+          "start": 19.1,
+          "end": 19.26,
+          "confidence": 0.744
+        },
+        {
+          "text": "the",
+          "start": 19.26,
+          "end": 19.3,
+          "confidence": 0.857
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 19.3,
+      "end": 21.34,
+      "text": " intersection of where the science is.",
+      "tokens": [
+        51328,
+        15236,
+        295,
+        689,
+        264,
+        3497,
+        307,
+        13,
+        51428
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25461635589599607,
+      "compression_ratio": 1.6153846153846154,
+      "no_speech_prob": 0.004782625008374453,
+      "confidence": 0.488,
+      "words": [
+        {
+          "text": "intersection",
+          "start": 19.3,
+          "end": 19.86,
+          "confidence": 0.979
+        },
+        {
+          "text": "of",
+          "start": 19.86,
+          "end": 20.16,
+          "confidence": 0.974
+        },
+        {
+          "text": "where",
+          "start": 20.16,
+          "end": 20.46,
+          "confidence": 0.997
+        },
+        {
+          "text": "the",
+          "start": 20.46,
+          "end": 20.7,
+          "confidence": 0.649
+        },
+        {
+          "text": "science",
+          "start": 20.7,
+          "end": 20.86,
+          "confidence": 0.119
+        },
+        {
+          "text": "is.",
+          "start": 20.86,
+          "end": 21.34,
+          "confidence": 0.185
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "language_probs": {
+    "en": 0.9975835084915161,
+    "zh": 8.19787965156138e-05,
+    "de": 9.408717596670613e-05,
+    "es": 0.00017836093320511281,
+    "ru": 3.361827475600876e-05,
+    "ko": 0.0001251135254278779,
+    "fr": 0.00012591504491865635,
+    "ja": 0.0007372057298198342,
+    "pt": 0.00016144422988872975,
+    "tr": 2.9296202228579205e-06,
+    "pl": 1.3515560567611828e-05,
+    "ca": 1.1704236158038839e-06,
+    "nl": 1.0037399988505058e-05,
+    "ar": 1.7562608263688162e-05,
+    "sv": 1.5946194253046997e-05,
+    "it": 1.134258127422072e-05,
+    "id": 5.514379608939635e-06,
+    "hi": 1.1491967597976327e-05,
+    "fi": 1.1577594705158845e-05,
+    "vi": 3.7425202208396513e-06,
+    "he": 3.5866673897544388e-06,
+    "uk": 2.1473374545166735e-06,
+    "el": 2.7480689368530875e-06,
+    "ms": 2.6362838980276138e-05,
+    "cs": 1.2986641877432703e-06,
+    "ro": 3.911810381396208e-06,
+    "da": 3.567635076251463e-06,
+    "hu": 2.5368503884237725e-06,
+    "ta": 5.518406851479085e-07,
+    "no": 2.9221978365967516e-06,
+    "th": 3.437855639276677e-06,
+    "ur": 3.5056880278716562e-06,
+    "hr": 3.316864081170934e-07,
+    "bg": 4.876720254287648e-07,
+    "lt": 3.200995877250534e-07,
+    "la": 0.00013344991020858288,
+    "mi": 2.7740170480683446e-05,
+    "ml": 1.2331710195212509e-06,
+    "cy": 0.0002501119452062994,
+    "sk": 1.1494762475194875e-07,
+    "te": 1.2286104720260482e-06,
+    "fa": 1.3489864159055287e-06,
+    "lv": 5.069923076916893e-07,
+    "bn": 2.493136662451434e-06,
+    "sr": 1.4216190891147562e-07,
+    "az": 2.789105337797082e-07,
+    "sl": 4.332672233431367e-06,
+    "kn": 7.108661748134182e-08,
+    "et": 2.631214783832547e-07,
+    "mk": 2.3326060727413278e-07,
+    "br": 7.267058208526578e-06,
+    "eu": 9.566064136379282e-07,
+    "is": 5.665403932653135e-07,
+    "hy": 1.0238899221803877e-06,
+    "ne": 6.948093869141303e-07,
+    "mn": 3.509049520289409e-06,
+    "bs": 3.9983575561564066e-07,
+    "kk": 5.072807951478353e-08,
+    "sq": 3.672529942377878e-07,
+    "sw": 2.257924097648356e-05,
+    "gl": 7.687245329179859e-07,
+    "mr": 3.5971956435787433e-07,
+    "pa": 2.0200003802983701e-07,
+    "si": 1.4508883623420843e-06,
+    "km": 2.0597686670953408e-05,
+    "sn": 1.5153565072978381e-05,
+    "yo": 5.6573780966573395e-06,
+    "so": 4.256978414218793e-08,
+    "af": 1.1526470871103811e-06,
+    "oc": 7.660021879019041e-07,
+    "ka": 1.4847350371383072e-07,
+    "be": 6.414156246137281e-07,
+    "tg": 1.989781450717487e-09,
+    "sd": 1.468407475613276e-07,
+    "gu": 6.926818940655721e-08,
+    "am": 7.689038028502182e-08,
+    "yi": 3.747527443920262e-06,
+    "lo": 7.177600735985834e-08,
+    "uz": 2.6044492951182718e-11,
+    "fo": 2.3003758542472497e-06,
+    "ht": 4.64390996057773e-06,
+    "ps": 4.805726803169819e-07,
+    "tk": 2.2859854287293757e-10,
+    "nn": 5.171181328478269e-05,
+    "mt": 6.242806307454885e-07,
+    "sa": 2.795817863443517e-06,
+    "lb": 2.7576261274475655e-09,
+    "my": 1.5310397429857403e-06,
+    "bo": 1.1894951967406087e-05,
+    "tl": 7.313330570468679e-05,
+    "mg": 4.995003854979529e-10,
+    "as": 1.4794741787227395e-07,
+    "tt": 2.1545136785761088e-09,
+    "haw": 4.5274675358086824e-05,
+    "ln": 8.681651308961591e-08,
+    "ha": 1.76531822493331e-09,
+    "ba": 3.1381053311463347e-10,
+    "jw": 9.688713362265844e-06,
+    "su": 3.6838299077857073e-10
+  }
+}

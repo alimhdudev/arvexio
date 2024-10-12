@@ -1,0 +1,25 @@
+@tailwind base;
+@layer base {
+    img {
+        @apply inline-block;
+    }
+}  
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;500;600;700;800;900&family=Oswald:wght@200;300;400;500;600;700&family=Plus+Jakarta+Sans:wght@200;300;400;500;600;700;800&display=swap');
+
+body {
+    font-family: 'Plus_Jakarta_Sans', sans-serif;
+}
+
+.jakarta {
+    font-family: var(--font-montserrat)
+}
+
+.captions-words{
+    top: 100;
+}
+
+  

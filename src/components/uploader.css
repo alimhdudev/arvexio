@@ -1,0 +1,52 @@
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px dashed #953AE7;
+    height: 300px;
+    width: 500px;
+    cursor: pointer;    
+    border-radius: 5px;
+}
+.video-container {
+    position: relative;
+  }
+  
+.progress-bar-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+
+    /* Center the text */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    /* Style the text */
+    color: white;
+    font-size: 2em;
+}
+
+@keyframes dot {
+    0%, 20% { opacity: 0; }
+    50%, 100% { opacity: 1; }
+  }
+  
+  .dot {
+    animation-name: dot;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+  }
+  
+  .delay-1 {
+    animation-delay: 0.2s;
+  }
+  
+  .delay-2 {
+    animation-delay: 0.4s;
+  }
+  
