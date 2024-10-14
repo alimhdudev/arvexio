@@ -21,5 +21,31 @@ body {
 .captions-words{
     top: 100;
 }
+aside{
+    min-width: 500px;
+    max-width: 500px;
+    width: 500px;
+}
 
-  
+
+.ant-menu-item{
+    padding: 21px;
+}
+
+.ant-menu-item-selected {
+    background-color: #9730FF !important;
+    border-radius: 0.75rem;
+}
+
+/* .ant-menu > .ant-menu-item:hover, */
+/* .ant-menu > .ant-menu-submenu:hover, */
+/* .ant-menu > .ant-menu-item-active, */
+/* .ant-menu> .ant-menu-submenu-active, */
+/* .ant-menu > .ant-menu-item-open, */
+/* .ant-menu> .ant-menu-submenu-open, */
+.ant-menu > .ant-menu-item-selected,
+.ant-menu > .ant-menu-submenu-selected {
+  color: white;
+  border-radius: 0.75rem;
+  padding: 21px;
+}

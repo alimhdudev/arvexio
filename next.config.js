@@ -2,11 +2,16 @@ const rewrites = () => {
   return [
     {
       source: "/api/:path*",
-      // destination: "http://127.0.0.1:8000/api/:path*",
+      // Local python server
+      destination: "http://127.0.0.1:8000/api/:path*",
+
+      // Live python server (API)
+      // destination: "http://89.116.23.112:8000/api/:path*", 
+
+
       // destination: "http://93.127.215.81:8000/api/:path*",
       // destination: "http://54.226.207.28:8000/api/:path*",
       // destination: "http://54.226.92.226:8000/api/:path*",
-      destination: "http://89.116.23.112:8000/api/:path*",
     },
   ];
 };

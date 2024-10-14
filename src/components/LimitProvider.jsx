@@ -5,24 +5,24 @@ import Subscribe from '../components/Subscribe';
 
 const LimitProvider = ({children, apiLimitCount, isPro, maxvid}) => {
   return (
-    <div>
+    <div className=' w-full h-full'>
         {
             apiLimitCount >= maxvid ? (
-              <div>
+              <div className=' w-full h-full'>
                 {isPro ? 
                   (
-                    <div>
+                    <div className=' w-full h-full'>
                       {
                         apiLimitCount < maxvid ? (<div>{children}</div>) 
                         : (<Subscribe/>)
                       }
                     </div>
                   )
-                  : (<div><Subscribe/></div>)
+                  : (<div className=' w-full h-full'><Subscribe/></div>)
                   }
               </div>
             ) 
-            : apiLimitCount < maxvid ? (<div>{children}</div>)
+            : apiLimitCount < maxvid ? (<div className=' w-full h-full'>{children}</div>)
             : null
         }
     </div>

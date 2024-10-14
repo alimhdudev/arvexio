@@ -1,0 +1,1119 @@
+{
+  "text": " Building your online business? Go to wicks.com and set up your store on a single integrated platform. Add products. Showcase them dynamically. And seamlessly track your inventory. Accept multiple secure payments and design your storefront down to the very last detail. Get all the tools you need. Drive more sales with customizable gift cards and flexible products subscriptions. Retain customers with a point-based loyalty program. Email automations and reach millions with sales channel integrations. Complete your setup with a personalized analytics dashboard. Make smart business decisions and shape the next phase of your business. Build, manage and grow from one place. Go to wicks and launch your online business today.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.18,
+      "end": 1.44,
+      "text": " Building your online business?",
+      "tokens": [
+        50364,
+        18974,
+        428,
+        2950,
+        1606,
+        30,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28707184791564944,
+      "compression_ratio": 1.5,
+      "no_speech_prob": 0.12711648643016815,
+      "confidence": 0.962,
+      "words": [
+        {
+          "text": "Building",
+          "start": 0.18,
+          "end": 0.5,
+          "confidence": 0.92
+        },
+        {
+          "text": "your",
+          "start": 0.5,
+          "end": 0.74,
+          "confidence": 0.947
+        },
+        {
+          "text": "online",
+          "start": 0.74,
+          "end": 0.98,
+          "confidence": 0.986
+        },
+        {
+          "text": "business?",
+          "start": 0.98,
+          "end": 1.44,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.88,
+      "end": 8.04,
+      "text": " Go to wicks.com and set up your store on a single integrated platform.",
+      "tokens": [
+        50552,
+        1037,
+        281,
+        261,
+        7663,
+        13,
+        1112,
+        293,
+        992,
+        493,
+        428,
+        3531,
+        322,
+        257,
+        2167,
+        10919,
+        3663,
+        13,
+        50768
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28707184791564944,
+      "compression_ratio": 1.5,
+      "no_speech_prob": 0.12711648643016815,
+      "confidence": 0.839,
+      "words": [
+        {
+          "text": "Go",
+          "start": 3.88,
+          "end": 4.04,
+          "confidence": 0.958
+        },
+        {
+          "text": "to",
+          "start": 4.04,
+          "end": 4.22,
+          "confidence": 0.972
+        },
+        {
+          "text": "wicks.com",
+          "start": 4.22,
+          "end": 5.14,
+          "confidence": 0.675
+        },
+        {
+          "text": "and",
+          "start": 5.14,
+          "end": 5.66,
+          "confidence": 0.796
+        },
+        {
+          "text": "set",
+          "start": 5.66,
+          "end": 5.82,
+          "confidence": 0.955
+        },
+        {
+          "text": "up",
+          "start": 5.82,
+          "end": 5.98,
+          "confidence": 0.995
+        },
+        {
+          "text": "your",
+          "start": 5.98,
+          "end": 6.1,
+          "confidence": 0.985
+        },
+        {
+          "text": "store",
+          "start": 6.1,
+          "end": 6.44,
+          "confidence": 0.963
+        },
+        {
+          "text": "on",
+          "start": 6.44,
+          "end": 6.66,
+          "confidence": 0.871
+        },
+        {
+          "text": "a",
+          "start": 6.66,
+          "end": 6.82,
+          "confidence": 0.987
+        },
+        {
+          "text": "single",
+          "start": 6.82,
+          "end": 7.12,
+          "confidence": 0.993
+        },
+        {
+          "text": "integrated",
+          "start": 7.12,
+          "end": 7.6,
+          "confidence": 0.519
+        },
+        {
+          "text": "platform.",
+          "start": 7.6,
+          "end": 8.04,
+          "confidence": 0.987
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 9.86,
+      "end": 12.84,
+      "text": " Add products. Showcase them dynamically.",
+      "tokens": [
+        50852,
+        5349,
+        3383,
+        13,
+        6895,
+        9765,
+        552,
+        43492,
+        13,
+        51008
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28707184791564944,
+      "compression_ratio": 1.5,
+      "no_speech_prob": 0.12711648643016815,
+      "confidence": 0.868,
+      "words": [
+        {
+          "text": "Add",
+          "start": 9.86,
+          "end": 10.12,
+          "confidence": 0.779
+        },
+        {
+          "text": "products.",
+          "start": 10.12,
+          "end": 10.58,
+          "confidence": 0.895
+        },
+        {
+          "text": "Showcase",
+          "start": 11.64,
+          "end": 12.08,
+          "confidence": 0.794
+        },
+        {
+          "text": "them",
+          "start": 12.08,
+          "end": 12.34,
+          "confidence": 0.983
+        },
+        {
+          "text": "dynamically.",
+          "start": 12.34,
+          "end": 12.84,
+          "confidence": 0.989
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 13.92,
+      "end": 15.98,
+      "text": " And seamlessly track your inventory.",
+      "tokens": [
+        51052,
+        400,
+        38083,
+        2837,
+        428,
+        14228,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28707184791564944,
+      "compression_ratio": 1.5,
+      "no_speech_prob": 0.12711648643016815,
+      "confidence": 0.972,
+      "words": [
+        {
+          "text": "And",
+          "start": 13.92,
+          "end": 14.24,
+          "confidence": 0.889
+        },
+        {
+          "text": "seamlessly",
+          "start": 14.24,
+          "end": 14.78,
+          "confidence": 0.998
+        },
+        {
+          "text": "track",
+          "start": 14.78,
+          "end": 15.3,
+          "confidence": 0.979
+        },
+        {
+          "text": "your",
+          "start": 15.3,
+          "end": 15.54,
+          "confidence": 0.999
+        },
+        {
+          "text": "inventory.",
+          "start": 15.54,
+          "end": 15.98,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 16.96,
+      "end": 23.12,
+      "text": " Accept multiple secure payments and design your storefront down to the very last detail.",
+      "tokens": [
+        51204,
+        39957,
+        3866,
+        7144,
+        14348,
+        293,
+        1715,
+        428,
+        3531,
+        11496,
+        760,
+        281,
+        264,
+        588,
+        1036,
+        2607,
+        13,
+        51520
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28707184791564944,
+      "compression_ratio": 1.5,
+      "no_speech_prob": 0.12711648643016815,
+      "confidence": 0.87,
+      "words": [
+        {
+          "text": "Accept",
+          "start": 16.96,
+          "end": 17.34,
+          "confidence": 0.871
+        },
+        {
+          "text": "multiple",
+          "start": 17.34,
+          "end": 17.76,
+          "confidence": 0.994
+        },
+        {
+          "text": "secure",
+          "start": 17.76,
+          "end": 18.1,
+          "confidence": 0.996
+        },
+        {
+          "text": "payments",
+          "start": 18.1,
+          "end": 18.58,
+          "confidence": 0.982
+        },
+        {
+          "text": "and",
+          "start": 18.58,
+          "end": 19.44,
+          "confidence": 0.448
+        },
+        {
+          "text": "design",
+          "start": 19.44,
+          "end": 19.88,
+          "confidence": 0.984
+        },
+        {
+          "text": "your",
+          "start": 19.88,
+          "end": 20.06,
+          "confidence": 0.997
+        },
+        {
+          "text": "storefront",
+          "start": 20.06,
+          "end": 20.7,
+          "confidence": 0.932
+        },
+        {
+          "text": "down",
+          "start": 20.7,
+          "end": 21.2,
+          "confidence": 0.618
+        },
+        {
+          "text": "to",
+          "start": 21.2,
+          "end": 21.42,
+          "confidence": 0.929
+        },
+        {
+          "text": "the",
+          "start": 21.42,
+          "end": 21.52,
+          "confidence": 0.976
+        },
+        {
+          "text": "very",
+          "start": 21.52,
+          "end": 22.02,
+          "confidence": 0.906
+        },
+        {
+          "text": "last",
+          "start": 22.02,
+          "end": 22.58,
+          "confidence": 0.919
+        },
+        {
+          "text": "detail.",
+          "start": 22.58,
+          "end": 23.12,
+          "confidence": 0.83
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 23.94,
+      "end": 28.08,
+      "text": " Get all the tools you need. Drive more sales with customizable gift cards",
+      "tokens": [
+        51556,
+        3240,
+        439,
+        264,
+        3873,
+        291,
+        643,
+        13,
+        15622,
+        544,
+        5763,
+        365,
+        47922,
+        5306,
+        5632,
+        51776
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28707184791564944,
+      "compression_ratio": 1.5,
+      "no_speech_prob": 0.12711648643016815,
+      "confidence": 0.923,
+      "words": [
+        {
+          "text": "Get",
+          "start": 23.94,
+          "end": 24.18,
+          "confidence": 0.845
+        },
+        {
+          "text": "all",
+          "start": 24.18,
+          "end": 24.34,
+          "confidence": 0.984
+        },
+        {
+          "text": "the",
+          "start": 24.34,
+          "end": 24.48,
+          "confidence": 0.99
+        },
+        {
+          "text": "tools",
+          "start": 24.48,
+          "end": 24.72,
+          "confidence": 0.998
+        },
+        {
+          "text": "you",
+          "start": 24.72,
+          "end": 24.94,
+          "confidence": 0.999
+        },
+        {
+          "text": "need.",
+          "start": 24.94,
+          "end": 25.32,
+          "confidence": 0.999
+        },
+        {
+          "text": "Drive",
+          "start": 25.7,
+          "end": 25.94,
+          "confidence": 0.768
+        },
+        {
+          "text": "more",
+          "start": 25.94,
+          "end": 26.22,
+          "confidence": 0.99
+        },
+        {
+          "text": "sales",
+          "start": 26.22,
+          "end": 26.54,
+          "confidence": 0.976
+        },
+        {
+          "text": "with",
+          "start": 26.54,
+          "end": 26.8,
+          "confidence": 0.984
+        },
+        {
+          "text": "customizable",
+          "start": 26.8,
+          "end": 27.3,
+          "confidence": 0.908
+        },
+        {
+          "text": "gift",
+          "start": 27.3,
+          "end": 27.66,
+          "confidence": 0.982
+        },
+        {
+          "text": "cards",
+          "start": 27.66,
+          "end": 28.08,
+          "confidence": 0.665
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2824,
+      "start": 28.4,
+      "end": 33.6,
+      "text": " and flexible products subscriptions. Retain customers with a point-based loyalty program.",
+      "tokens": [
+        50368,
+        293,
+        11358,
+        3383,
+        44951,
+        13,
+        11495,
+        491,
+        4581,
+        365,
+        257,
+        935,
+        12,
+        6032,
+        22831,
+        1461,
+        13,
+        50644
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2615260388477739,
+      "compression_ratio": 1.5958333333333334,
+      "no_speech_prob": 0.020859861746430397,
+      "confidence": 0.865,
+      "words": [
+        {
+          "text": "and",
+          "start": 28.4,
+          "end": 28.68,
+          "confidence": 0.917
+        },
+        {
+          "text": "flexible",
+          "start": 28.68,
+          "end": 29.06,
+          "confidence": 0.823
+        },
+        {
+          "text": "products",
+          "start": 29.06,
+          "end": 29.56,
+          "confidence": 0.868
+        },
+        {
+          "text": "subscriptions.",
+          "start": 29.56,
+          "end": 30.2,
+          "confidence": 0.799
+        },
+        {
+          "text": "Retain",
+          "start": 31.04,
+          "end": 31.34,
+          "confidence": 0.632
+        },
+        {
+          "text": "customers",
+          "start": 31.34,
+          "end": 31.76,
+          "confidence": 0.981
+        },
+        {
+          "text": "with",
+          "start": 31.76,
+          "end": 32.02,
+          "confidence": 0.983
+        },
+        {
+          "text": "a",
+          "start": 32.02,
+          "end": 32.2,
+          "confidence": 0.984
+        },
+        {
+          "text": "point-based",
+          "start": 32.2,
+          "end": 32.64,
+          "confidence": 0.923
+        },
+        {
+          "text": "loyalty",
+          "start": 32.64,
+          "end": 33.08,
+          "confidence": 0.904
+        },
+        {
+          "text": "program.",
+          "start": 33.08,
+          "end": 33.6,
+          "confidence": 0.927
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2824,
+      "start": 34.18,
+      "end": 38.64,
+      "text": " Email automations and reach millions with sales channel integrations.",
+      "tokens": [
+        50656,
+        49482,
+        3553,
+        763,
+        293,
+        2524,
+        6803,
+        365,
+        5763,
+        2269,
+        3572,
+        763,
+        13,
+        50892
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2615260388477739,
+      "compression_ratio": 1.5958333333333334,
+      "no_speech_prob": 0.020859861746430397,
+      "confidence": 0.898,
+      "words": [
+        {
+          "text": "Email",
+          "start": 34.18,
+          "end": 34.58,
+          "confidence": 0.941
+        },
+        {
+          "text": "automations",
+          "start": 34.58,
+          "end": 35.46,
+          "confidence": 0.906
+        },
+        {
+          "text": "and",
+          "start": 35.46,
+          "end": 36.02,
+          "confidence": 0.441
+        },
+        {
+          "text": "reach",
+          "start": 36.02,
+          "end": 36.28,
+          "confidence": 0.993
+        },
+        {
+          "text": "millions",
+          "start": 36.28,
+          "end": 36.88,
+          "confidence": 0.988
+        },
+        {
+          "text": "with",
+          "start": 36.88,
+          "end": 37.18,
+          "confidence": 0.996
+        },
+        {
+          "text": "sales",
+          "start": 37.18,
+          "end": 37.56,
+          "confidence": 0.996
+        },
+        {
+          "text": "channel",
+          "start": 37.56,
+          "end": 37.86,
+          "confidence": 0.966
+        },
+        {
+          "text": "integrations.",
+          "start": 37.86,
+          "end": 38.64,
+          "confidence": 0.977
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2824,
+      "start": 39.18,
+      "end": 42.04,
+      "text": " Complete your setup with a personalized analytics dashboard.",
+      "tokens": [
+        50904,
+        34687,
+        428,
+        8657,
+        365,
+        257,
+        28415,
+        15370,
+        18342,
+        13,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2615260388477739,
+      "compression_ratio": 1.5958333333333334,
+      "no_speech_prob": 0.020859861746430397,
+      "confidence": 0.919,
+      "words": [
+        {
+          "text": "Complete",
+          "start": 39.18,
+          "end": 39.52,
+          "confidence": 0.963
+        },
+        {
+          "text": "your",
+          "start": 39.52,
+          "end": 39.72,
+          "confidence": 0.918
+        },
+        {
+          "text": "setup",
+          "start": 39.72,
+          "end": 39.96,
+          "confidence": 0.84
+        },
+        {
+          "text": "with",
+          "start": 39.96,
+          "end": 40.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "a",
+          "start": 40.16,
+          "end": 40.34,
+          "confidence": 0.986
+        },
+        {
+          "text": "personalized",
+          "start": 40.34,
+          "end": 40.88,
+          "confidence": 0.909
+        },
+        {
+          "text": "analytics",
+          "start": 40.88,
+          "end": 41.46,
+          "confidence": 0.775
+        },
+        {
+          "text": "dashboard.",
+          "start": 41.46,
+          "end": 42.04,
+          "confidence": 0.989
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2824,
+      "start": 42.94,
+      "end": 47.44,
+      "text": " Make smart business decisions and shape the next phase of your business.",
+      "tokens": [
+        51092,
+        4387,
+        4069,
+        1606,
+        5327,
+        293,
+        3909,
+        264,
+        958,
+        5574,
+        295,
+        428,
+        1606,
+        13,
+        51336
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2615260388477739,
+      "compression_ratio": 1.5958333333333334,
+      "no_speech_prob": 0.020859861746430397,
+      "confidence": 0.955,
+      "words": [
+        {
+          "text": "Make",
+          "start": 42.94,
+          "end": 43.24,
+          "confidence": 0.91
+        },
+        {
+          "text": "smart",
+          "start": 43.24,
+          "end": 43.66,
+          "confidence": 0.991
+        },
+        {
+          "text": "business",
+          "start": 43.66,
+          "end": 44.04,
+          "confidence": 0.991
+        },
+        {
+          "text": "decisions",
+          "start": 44.04,
+          "end": 44.68,
+          "confidence": 0.996
+        },
+        {
+          "text": "and",
+          "start": 44.68,
+          "end": 45.38,
+          "confidence": 0.691
+        },
+        {
+          "text": "shape",
+          "start": 45.38,
+          "end": 45.62,
+          "confidence": 0.988
+        },
+        {
+          "text": "the",
+          "start": 45.62,
+          "end": 45.84,
+          "confidence": 0.992
+        },
+        {
+          "text": "next",
+          "start": 45.84,
+          "end": 46.14,
+          "confidence": 0.988
+        },
+        {
+          "text": "phase",
+          "start": 46.14,
+          "end": 46.52,
+          "confidence": 0.986
+        },
+        {
+          "text": "of",
+          "start": 46.52,
+          "end": 46.74,
+          "confidence": 0.993
+        },
+        {
+          "text": "your",
+          "start": 46.74,
+          "end": 46.94,
+          "confidence": 0.989
+        },
+        {
+          "text": "business.",
+          "start": 46.94,
+          "end": 47.44,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2824,
+      "start": 47.94,
+      "end": 51.08,
+      "text": " Build, manage and grow from one place.",
+      "tokens": [
+        51344,
+        11875,
+        11,
+        3067,
+        293,
+        1852,
+        490,
+        472,
+        1081,
+        13,
+        51512
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2615260388477739,
+      "compression_ratio": 1.5958333333333334,
+      "no_speech_prob": 0.020859861746430397,
+      "confidence": 0.904,
+      "words": [
+        {
+          "text": "Build,",
+          "start": 47.94,
+          "end": 48.34,
+          "confidence": 0.952
+        },
+        {
+          "text": "manage",
+          "start": 48.68,
+          "end": 48.92,
+          "confidence": 0.971
+        },
+        {
+          "text": "and",
+          "start": 48.92,
+          "end": 49.26,
+          "confidence": 0.553
+        },
+        {
+          "text": "grow",
+          "start": 49.26,
+          "end": 49.68,
+          "confidence": 0.998
+        },
+        {
+          "text": "from",
+          "start": 49.68,
+          "end": 50.1,
+          "confidence": 0.97
+        },
+        {
+          "text": "one",
+          "start": 50.1,
+          "end": 50.58,
+          "confidence": 0.998
+        },
+        {
+          "text": "place.",
+          "start": 50.58,
+          "end": 51.08,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2824,
+      "start": 51.38,
+      "end": 54.52,
+      "text": " Go to wicks and launch your online business today.",
+      "tokens": [
+        51512,
+        1037,
+        281,
+        261,
+        7663,
+        293,
+        4025,
+        428,
+        2950,
+        1606,
+        965,
+        13,
+        51712
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2615260388477739,
+      "compression_ratio": 1.5958333333333334,
+      "no_speech_prob": 0.020859861746430397,
+      "confidence": 0.985,
+      "words": [
+        {
+          "text": "Go",
+          "start": 51.38,
+          "end": 51.56,
+          "confidence": 0.979
+        },
+        {
+          "text": "to",
+          "start": 51.56,
+          "end": 51.76,
+          "confidence": 0.999
+        },
+        {
+          "text": "wicks",
+          "start": 51.76,
+          "end": 52.18,
+          "confidence": 0.978
+        },
+        {
+          "text": "and",
+          "start": 52.18,
+          "end": 52.58,
+          "confidence": 0.951
+        },
+        {
+          "text": "launch",
+          "start": 52.58,
+          "end": 52.86,
+          "confidence": 0.988
+        },
+        {
+          "text": "your",
+          "start": 52.86,
+          "end": 53.2,
+          "confidence": 0.997
+        },
+        {
+          "text": "online",
+          "start": 53.2,
+          "end": 53.62,
+          "confidence": 0.986
+        },
+        {
+          "text": "business",
+          "start": 53.62,
+          "end": 54.08,
+          "confidence": 0.996
+        },
+        {
+          "text": "today.",
+          "start": 54.08,
+          "end": 54.52,
+          "confidence": 0.996
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "language_probs": {
+    "en": 0.997223973274231,
+    "zh": 0.00017088212189264596,
+    "de": 0.00014890822058077902,
+    "es": 0.0002281906345160678,
+    "ru": 0.0002946238382719457,
+    "ko": 0.0001989871816476807,
+    "fr": 0.00015505874762311578,
+    "ja": 0.00039044790901243687,
+    "pt": 0.0001645496377022937,
+    "tr": 2.0357405446702614e-05,
+    "pl": 1.3364189726416953e-05,
+    "ca": 4.5415763452183455e-06,
+    "nl": 0.00012561326730065048,
+    "ar": 2.1195784938754514e-05,
+    "sv": 2.5761675715330057e-05,
+    "it": 5.194617187953554e-06,
+    "id": 3.8830992707517e-05,
+    "hi": 0.00013705984747502953,
+    "fi": 1.828179301810451e-05,
+    "vi": 3.957440276280977e-05,
+    "he": 4.509844529820839e-06,
+    "uk": 1.1993071893812157e-05,
+    "el": 1.412695291946875e-05,
+    "ms": 2.3717742806184106e-05,
+    "cs": 4.824358711630339e-06,
+    "ro": 2.626966534080566e-06,
+    "da": 9.991214938054327e-06,
+    "hu": 3.0837552458251594e-06,
+    "ta": 3.8920620681892615e-06,
+    "no": 5.241083727014484e-06,
+    "th": 6.328375457087532e-05,
+    "ur": 2.64308937403257e-06,
+    "hr": 1.989332758967066e-06,
+    "bg": 1.0252652828057762e-05,
+    "lt": 6.428259098356648e-07,
+    "la": 3.486913919914514e-05,
+    "mi": 1.341598454018822e-05,
+    "ml": 8.585922728343576e-07,
+    "cy": 1.7789434423320927e-05,
+    "sk": 1.4057584394322475e-06,
+    "te": 3.560650156941847e-06,
+    "fa": 5.53650863821531e-07,
+    "lv": 7.261564860527869e-06,
+    "bn": 4.1988373595813755e-06,
+    "sr": 2.207485891858596e-07,
+    "az": 1.6476010955557285e-07,
+    "sl": 2.5765295958990464e-06,
+    "kn": 5.922438717220757e-08,
+    "et": 3.373752690549736e-07,
+    "mk": 5.68477958040603e-07,
+    "br": 5.1108841034874786e-06,
+    "eu": 3.5177592394575186e-07,
+    "is": 7.965033432810742e-07,
+    "hy": 1.2065177088516066e-06,
+    "ne": 4.96147492867749e-07,
+    "mn": 2.115961308390979e-07,
+    "bs": 5.780130436505715e-07,
+    "kk": 1.0599028854585413e-07,
+    "sq": 1.1311649359413423e-06,
+    "sw": 5.637649792333832e-06,
+    "gl": 3.0051654675844475e-07,
+    "mr": 2.9060166184535774e-07,
+    "pa": 3.7744547398688155e-07,
+    "si": 1.8085171404891298e-06,
+    "km": 8.586503827245906e-05,
+    "sn": 1.3825955647916999e-05,
+    "yo": 3.4529307413322385e-06,
+    "so": 1.6571876315651934e-08,
+    "af": 9.939813025994226e-07,
+    "oc": 5.575532782131631e-07,
+    "ka": 2.5291418737083404e-08,
+    "be": 2.0633073916087596e-07,
+    "tg": 1.9240540272136286e-09,
+    "sd": 7.986890437905458e-08,
+    "gu": 5.319036233686347e-08,
+    "am": 2.8896327108896003e-08,
+    "yi": 4.7414860091521405e-06,
+    "lo": 1.6056141305398342e-07,
+    "uz": 2.935743662058066e-11,
+    "fo": 2.0707548742393556e-07,
+    "ht": 7.630515597156773e-07,
+    "ps": 1.0092539923789445e-06,
+    "tk": 1.5414886034292863e-10,
+    "nn": 8.640332816867158e-05,
+    "mt": 3.9148309838310524e-07,
+    "sa": 2.442666072965949e-06,
+    "lb": 1.7079890834992284e-09,
+    "my": 4.295801261378074e-07,
+    "bo": 5.812634640278702e-07,
+    "tl": 8.340425119968131e-05,
+    "mg": 2.5451424301436987e-10,
+    "as": 9.06060932948094e-08,
+    "tt": 2.482068328646392e-09,
+    "haw": 1.2735670679830946e-05,
+    "ln": 1.9873436230000152e-08,
+    "ha": 1.0424113794371692e-09,
+    "ba": 1.6639259414752416e-10,
+    "jw": 7.104711130523356e-06,
+    "su": 3.61561114381459e-10
+  }
+}
