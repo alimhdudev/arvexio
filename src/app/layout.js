@@ -32,7 +32,7 @@ export default async function RootLayout({children}) {
     <ClerkProvider>
       <html lang="en" className={font.variable + 'light bg-white w-full h-full'}>
           <body className={font.variable + `w-full h-full`}>
-            {/* <header style={{width: '30vw'}} className='bg-none w-[100px] md:flex items-center ml-auto mr-auto justify-between'>
+            <header className='bg-none max-w-[700px] flex items-center ml-auto mr-auto justify-between'>
               <Link href="/" className="max-auto">
                 <Image src={Logo} alt="Logo" width={90} height={90}/>
               </Link>
@@ -44,9 +44,9 @@ export default async function RootLayout({children}) {
                   </Button>
                 </Link>
               </div>
-            </header> */}
+            </header>
             <div className='w-full h-full'>
-              {/* <hr style={{marginBottom: 10}}/> */}
+              <hr style={{marginBottom: 10}}/>
               <LimitProvider apiLimitCount={apiLimitCount} isPro={isPro} maxvid={MAX_FREE_COUNTS}>
                 {children}
               </LimitProvider>

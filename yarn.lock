@@ -7691,6 +7691,14 @@ html-to-image@^1.11.11:
   resolved "https://registry.npmjs.org/html-to-image/-/html-to-image-1.11.11.tgz"
   integrity sha512-9gux8QhvjRO/erSnDPv28noDZcPZmYE7e1vFsBLKLlRlKDSqNJYebj6Qz1TGd5lsRV+X+xYyjCKjuZdABinWjA==
 
+html2canvas-pro@^1.5.8:
+  version "1.5.8"
+  resolved "https://registry.npmjs.org/html2canvas-pro/-/html2canvas-pro-1.5.8.tgz"
+  integrity sha512-bVGAU7IvhBwBlRAmX6QhekX8lsaxmYoF6zIwf/HNlHscjx+KN8jw/U4PQRYqeEVm9+m13hcS1l5ChJB9/e29Lw==
+  dependencies:
+    css-line-break "^2.1.0"
+    text-segmentation "^1.0.3"
+
 html2canvas-support-css@^1.0.5:
   version "1.0.5"
   resolved "https://registry.npmjs.org/html2canvas-support-css/-/html2canvas-support-css-1.0.5.tgz"

@@ -65,6 +65,7 @@ const UploadForm = ({MEGABYTES,MINUTES}) => {
       alert('Uploaded video must be less than ' + MINUTES + ' minutes');
       return;
     }
+    
   
     if (response) {
       if (files.length > 0) {
@@ -74,10 +75,11 @@ const UploadForm = ({MEGABYTES,MINUTES}) => {
         try {
           // here it sends the video file to the python server
           // and in here we're gonna have the same code for sending in on /export endpoint
-          const res = await axios.post('/api/upload', formData, {headers: {'Content-Type': 'multipart/form-data'}});
-          const statusRes = await axios.get('/api/status');
+          const res = await axios.post('http://127.0.0.1:8000/api/upload', formData, {headers: {'Content-Type': 'multipart/form-data'}});
+          const statusRes = await axios.get('http://127.0.0.1:8000/api/status');
           const status = statusRes.data.status;
-          if (status === 'finish') {router.push('/edit', { shallow: true })}
+          if (status === 'finish') {router.replace('/edit', { shallow: true })}
+
           // so on server if it has gotten the video the status is finish. 
           // and if the status is finish stop the uploading and push client to /edit
         } catch (error) {

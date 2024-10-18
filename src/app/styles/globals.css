@@ -49,3 +49,7 @@ aside{
   border-radius: 0.75rem;
   padding: 21px;
 }
+
+input[id="progress-bar"]{
+    border: none;
+}

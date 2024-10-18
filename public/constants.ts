@@ -13,7 +13,7 @@ export const Constants = async () => {
     const { description } = await checkDescription() as DescriptionResult;
     
     if(!isPro) {
-        MAX_FREE_COUNTS = 500;
+        MAX_FREE_COUNTS = 1000;
     }
 
     if(isPro) {

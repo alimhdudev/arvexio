@@ -20,14 +20,22 @@
       {
         "name": "next"
       }
-    ]
+    ],
+    "strictNullChecks": true
   },
   "include": [
     "next-env.d.ts",
     ".next/types/**/*.ts",
     "**/*.ts",
-    "**/*.tsx"
-, "src/app/account/getVideosLeft.js", "src/components/Button.jsx", "src/middleware.ts", "src/app/api/upload.js", "src/app/api/download.js", "src/components/Confetti.jsx", "src/app/edit/page.js"  ],
+    "**/*.tsx",
+    "src/app/account/getVideosLeft.js",
+    "src/components/Button.jsx",
+    "src/middleware.ts",
+    "src/app/api/upload.js",
+    "src/app/api/download.js",
+    "src/components/Confetti.jsx",
+    "src/app/edit/page.js"
+  ],
   "exclude": [
     "node_modules"
   ]

@@ -201,25 +201,29 @@ export default function FilePage() {
     const getFiles = async () => {
       try {
         // Get the video file
-        const videoRes = await axios.get('/api/download/video', { 
+        const videoRes = await axios.get('http://127.0.0.1:8000/api/download/video', { 
           responseType: 'blob',
           headers: {
             'Accept': 'video/mp4',
           },
         });
         const videoUrl = URL.createObjectURL(new Blob([videoRes.data]));
+        console.log(videoUrl, 'videoUrl');
+        
         setServerVideoUrl(videoUrl); // Set the state variable
       } catch (error) {
         console.error('Error getting video file:', error.response);
       }
       try {
         // Get the SRT file
-        const srtRes = await axios.get('/api/download/srt', { 
+        const srtRes = await axios.get('http://127.0.0.1:8000/api/download/srt', { 
           responseType: 'text',
           headers: {
             'Accept': 'application/x-subrip',
           },
         });
+        console.log(srtRes.data, 'srtRes');
+        
         setSrt(srtRes.data); // Set the state variable
       } catch (error) {
         console.error('Error getting SRT file:', error.response);
@@ -252,7 +256,7 @@ export default function FilePage() {
   const [color1, setColor1] = useState('#75FB4C');
   const [color2, setColor2] = useState('#F3FF53');
   const [color3, setColor3] = useState('#D73E2C');
-  const [emojiMode, setEmojiMode] = useState('top'); // ['top', 'bottom', 'none']
+  const [emojiMode, setEmojiMode] = useState('none'); // ['top', 'bottom', 'none']
   const [emojiBottom, setEmojiBottom] = useState('bottom');
   const [emojiTop, setEmojiTop] = useState('top');
   const [emojiNone, setEmojiNone] = useState('none');
@@ -266,7 +270,7 @@ export default function FilePage() {
   const [shadowMode, setShadowMode] = useState(shadowL); // Default shadow mode
   const [noneAnimation, setNoneAnimation] = useState(true);
   const [popUpAnimation, setPopUpAnimation] = useState('y:10');
-  const [animateValue, setAnimateValue] = useState('none');
+  const [animateValue, setAnimateValue] = useState('borderfull');
   const [backgroundColor, setBackgroundColor] = useState('#953AE7');
   const [selectColor, setSelectColor] = useState('#D3D3D3');
   const [animationSpeed, setAnimationSpeed] = useState(0.2);
