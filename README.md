@@ -4,7 +4,7 @@
 
 ![Frame 4335](https://github.com/user-attachments/assets/9e40e568-b6c1-4e1f-9c75-4a65a2462fff)
 
-(WCPR) Open source web captioning post rendering technology developed by Mukhammed Ali Dulatov.
+Open source web captioning post rendering app developed by Mukhammed Ali Dulatov.
 
 You are free to use this app in any of your projects both commercial and personal.
 If you plan to use this app in commercial interest please email me at email@arvex.io
